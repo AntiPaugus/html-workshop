@@ -8,8 +8,10 @@ body {
 }
 /* #-ga viitame elemendile, millel on selline id */
 #photo {
-    max-width: 25em;
+    max-width: 370px;
     max-height: 30em;
+    border: 2px solid black;
+border-radius: 5% 5% 5% 5%;
 }
 /* .-ga viitame elemenditele, millel on selline class */
 .container {
